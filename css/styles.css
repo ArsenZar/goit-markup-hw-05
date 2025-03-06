@@ -449,6 +449,7 @@ fieldset {
     display: flex;
     justify-content: center;
     gap: 16px;
+    list-style-type: none;
 }
 .footer-icon-wrapper-li{
     width: 40px;
