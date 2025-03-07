@@ -108,7 +108,7 @@ fieldset {
 .navigation-list{
     display: flex;
 }
-.navigation-link:nth-child(1){
+.navigation-list li:nth-child(1) .navigation-link {
     color: #404bbf;
 }
 .navigation-link{
