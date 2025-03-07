@@ -550,6 +550,9 @@ fieldset {
 .form-group:nth-child(4){
     margin-bottom: 16px;
 }
+.form-group:nth-child(4) {
+    margin-bottom: 24px;
+}
 
 .form-label {
     font-size: 12px;
