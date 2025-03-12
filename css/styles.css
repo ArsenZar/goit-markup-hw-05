@@ -493,10 +493,6 @@ fieldset {
     gap: 24px;
 }
 
-.footer-label {
-    // Add any necessary styles for the label
-}
-
 .footer-input {
     width: 264px;
     height: 40px;
